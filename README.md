@@ -10,13 +10,12 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
-
+Bitcoin current price
 ## Usage
 ```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+You: Bitcoin price
+Jarvis: The bitcoin price is 950 euro
 ```
 
 ## Author
-[your name](http://your.website)
+[marioincesti][whiterabbit00]

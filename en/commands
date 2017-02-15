@@ -1,1 +1,2 @@
-*HELLO WORLD*==say "Hello World"
+*bitcoin*|*bitcoin*price*==say "the bitcoin price is $(jv_pg_bitcoin) euro"
+
