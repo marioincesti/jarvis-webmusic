@@ -10,11 +10,11 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Bitcoin current price
+Youtube music player
 ## Usage
 ```
-You: Bitcoin price
-Jarvis: The bitcoin price is 950 euro
+You: Play Pantera Walk
+Jarvis: Wait
 ```
 
 ## Author
