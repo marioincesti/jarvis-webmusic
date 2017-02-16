@@ -1,1 +1,1 @@
-*bitcoin*|*prezzo*bitcoin*==say "Il prezzo del bit coin,a è $(jv_pg_bitcoin) euro"
+*riproduci (*) (*) (*)|*suona (*) (*) (*)|*play (*) (*) (*)==say "Un momento" && say "$(jv_pg_webmusic "(1)" "(2)" "(3)")"
