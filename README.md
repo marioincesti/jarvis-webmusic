@@ -16,6 +16,8 @@ Youtube music player
 You: Play Pantera Walk
 Jarvis: Wait
 ```
+## Dependecies
+[sudo] pip install youtube-dl
 
 ## Author
 [marioincesti][whiterabbit00]
